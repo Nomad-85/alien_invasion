@@ -1,5 +1,4 @@
 # alien_invasion
-Alien Invasion game
 
 All of the files should go in a folder named 'alien_invasion',
 and the .bmp files should go in a folder named 'images' with the 'alien_invasion' folder.
