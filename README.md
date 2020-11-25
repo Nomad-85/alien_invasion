@@ -7,5 +7,5 @@ Run alien_invasion.py
 
 Press 'q' to quit
 
-Use arrow keys to move ship left and right
+Use arrow keys to move ship left and right,
 Spacebar to shoot bullets
